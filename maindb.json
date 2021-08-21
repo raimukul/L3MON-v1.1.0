@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "b36aaa071edfc47ecba2f39b81ceff71",
+    "loginToken": "c06570cb473237fbfd719245ad0436c0",
+    "logs": [
+      {
+        "time": "2021-08-21T18:05:06.591Z",
+        "type": "ERROR",
+        "message": "Build Failed - Unable to spawn Java - Error: spawn java ENOENT"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
